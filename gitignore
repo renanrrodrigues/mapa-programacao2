@@ -1,0 +1,21 @@
+# Arquivos gerados pelo NetBeans
+nbproject/
+nbbuild/
+dist/
+
+# Arquivos de configuração do IDE
+.project
+.settings
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de banco de dados
+*.sql
+*.db
