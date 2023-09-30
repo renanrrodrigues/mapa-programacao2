@@ -31,6 +31,11 @@ public class Usuario {
         this.login = login;
         this.senha = senha;
     }
+    public Usuario(long id, String login, String email) {
+        this.id = id;
+        this.login = login;
+        this.email = email;
+    }
     
 
     public long getId() {

@@ -17,7 +17,7 @@ public class Conexao {
     
 
     
-    private static final String url = "jdbc:mysql://localhost:3306/mapa";
+    private static final String url = "jdbc:mysql://192.168.79.128:3306/mapa";
     private static final String user = "root";
     private static final String password = "t00r";
     
