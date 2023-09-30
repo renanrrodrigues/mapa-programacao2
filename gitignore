@@ -24,3 +24,21 @@ out/
 # Arquivos de banco de dados
 *.sql
 *.db
+
+# Arquivos de build
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de IDE
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*~
+.DS_Store
